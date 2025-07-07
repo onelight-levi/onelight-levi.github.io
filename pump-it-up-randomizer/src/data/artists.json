@@ -1,0 +1,858 @@
+[
+  {
+    "artist_id": 1,
+    "name": "반야"
+  },
+  {
+    "artist_id": 2,
+    "name": "노바소닉"
+  },
+  {
+    "artist_id": 3,
+    "name": "크래쉬"
+  },
+  {
+    "artist_id": 4,
+    "name": "반야 프로덕션"
+  },
+  {
+    "artist_id": 5,
+    "name": "이 얍"
+  },
+  {
+    "artist_id": 6,
+    "name": "DM Ashura"
+  },
+  {
+    "artist_id": 7,
+    "name": "반야 & DM Ashura"
+  },
+  {
+    "artist_id": 8,
+    "name": "반야 & Cranky"
+  },
+  {
+    "artist_id": 9,
+    "name": "반야 & SynthWulf"
+  },
+  {
+    "artist_id": 10,
+    "name": "도인"
+  },
+  {
+    "artist_id": 11,
+    "name": "SHK"
+  },
+  {
+    "artist_id": 12,
+    "name": "맥스"
+  },
+  {
+    "artist_id": 13,
+    "name": "약 원"
+  },
+  {
+    "artist_id": 14,
+    "name": "시드사운드"
+  },
+  {
+    "artist_id": 15,
+    "name": "SQUAR"
+  },
+  {
+    "artist_id": 16,
+    "name": "도인 & 맥스"
+  },
+  {
+    "artist_id": 17,
+    "name": "맥스 & 로리체슬"
+  },
+  {
+    "artist_id": 18,
+    "name": "A.V."
+  },
+  {
+    "artist_id": 19,
+    "name": "맥스 & 서랑"
+  },
+  {
+    "artist_id": 20,
+    "name": "엠.에스.군"
+  },
+  {
+    "artist_id": 21,
+    "name": "Nightmare"
+  },
+  {
+    "artist_id": 22,
+    "name": "ZiGZaG"
+  },
+  {
+    "artist_id": 23,
+    "name": "J-Mi & Midi-D & Ft. Hanna Stockzell"
+  },
+  {
+    "artist_id": 24,
+    "name": "SynthWulf"
+  },
+  {
+    "artist_id": 25,
+    "name": "Zircon"
+  },
+  {
+    "artist_id": 26,
+    "name": "SynthWulf & 맥스"
+  },
+  {
+    "artist_id": 27,
+    "name": "Affinity"
+  },
+  {
+    "artist_id": 28,
+    "name": "Coconut"
+  },
+  {
+    "artist_id": 29,
+    "name": "Diclonius Kid"
+  },
+  {
+    "artist_id": 30,
+    "name": "Hi-G"
+  },
+  {
+    "artist_id": 31,
+    "name": "Smiley"
+  },
+  {
+    "artist_id": 32,
+    "name": "Throwdown"
+  },
+  {
+    "artist_id": 33,
+    "name": "Sanxion7"
+  },
+  {
+    "artist_id": 34,
+    "name": "Vospi"
+  },
+  {
+    "artist_id": 35,
+    "name": "엠투유"
+  },
+  {
+    "artist_id": 36,
+    "name": "와락"
+  },
+  {
+    "artist_id": 37,
+    "name": "나토"
+  },
+  {
+    "artist_id": 38,
+    "name": "맴매"
+  },
+  {
+    "artist_id": 39,
+    "name": "폴 바주카"
+  },
+  {
+    "artist_id": 40,
+    "name": "젠틀스틱"
+  },
+  {
+    "artist_id": 41,
+    "name": "슬램"
+  },
+  {
+    "artist_id": 42,
+    "name": "DM Ashura feat. Skizzo & Hanna"
+  },
+  {
+    "artist_id": 43,
+    "name": "r300k"
+  },
+  {
+    "artist_id": 44,
+    "name": "Cashew"
+  },
+  {
+    "artist_id": 45,
+    "name": "CYO Style & Henohenomoheji"
+  },
+  {
+    "artist_id": 46,
+    "name": "CYO Style"
+  },
+  {
+    "artist_id": 47,
+    "name": "MAZO"
+  },
+  {
+    "artist_id": 48,
+    "name": "반야 & 와락"
+  },
+  {
+    "artist_id": 49,
+    "name": "맥스 & 맴매"
+  },
+  {
+    "artist_id": 50,
+    "name": "슬램 & 나토"
+  },
+  {
+    "artist_id": 51,
+    "name": "Matduke"
+  },
+  {
+    "artist_id": 52,
+    "name": "맥스 & 둠"
+  },
+  {
+    "artist_id": 53,
+    "name": "Cranky"
+  },
+  {
+    "artist_id": 54,
+    "name": "3R2"
+  },
+  {
+    "artist_id": 55,
+    "name": "D_AAN"
+  },
+  {
+    "artist_id": 56,
+    "name": "Vesuvia x REDSHiFT"
+  },
+  {
+    "artist_id": 57,
+    "name": "typeMARS"
+  },
+  {
+    "artist_id": 58,
+    "name": "바쿠스테 소토칸다 잇쵸메"
+  },
+  {
+    "artist_id": 59,
+    "name": "Sakuzyo"
+  },
+  {
+    "artist_id": 60,
+    "name": "void"
+  },
+  {
+    "artist_id": 61,
+    "name": "ETIA."
+  },
+  {
+    "artist_id": 62,
+    "name": "you"
+  },
+  {
+    "artist_id": 63,
+    "name": "Masayoshi Minoshima"
+  },
+  {
+    "artist_id": 64,
+    "name": "Tatsh"
+  },
+  {
+    "artist_id": 65,
+    "name": "Fiverwater"
+  },
+  {
+    "artist_id": 66,
+    "name": "드림캐쳐"
+  },
+  {
+    "artist_id": 67,
+    "name": "HyuN"
+  },
+  {
+    "artist_id": 68,
+    "name": "루나틱 사운즈"
+  },
+  {
+    "artist_id": 69,
+    "name": "mzet:-P"
+  },
+  {
+    "artist_id": 70,
+    "name": "Jehezukiel"
+  },
+  {
+    "artist_id": 71,
+    "name": "Quree"
+  },
+  {
+    "artist_id": 72,
+    "name": "Skizzo"
+  },
+  {
+    "artist_id": 73,
+    "name": "뉴트럴 문"
+  },
+  {
+    "artist_id": 74,
+    "name": "5argon"
+  },
+  {
+    "artist_id": 75,
+    "name": "DJ Counterforce"
+  },
+  {
+    "artist_id": 76,
+    "name": "나토 & EXC"
+  },
+  {
+    "artist_id": 77,
+    "name": "Dasu feat. 카가미네 렌"
+  },
+  {
+    "artist_id": 78,
+    "name": "야시 프레스먼 & 나딘 러스트레"
+  },
+  {
+    "artist_id": 79,
+    "name": "뷰티플 데이"
+  },
+  {
+    "artist_id": 80,
+    "name": "브랜디"
+  },
+  {
+    "artist_id": 81,
+    "name": "ESTi"
+  },
+  {
+    "artist_id": 82,
+    "name": "아라곤"
+  },
+  {
+    "artist_id": 83,
+    "name": "아마모리P"
+  },
+  {
+    "artist_id": 84,
+    "name": "ATAS"
+  },
+  {
+    "artist_id": 85,
+    "name": "KIEN"
+  },
+  {
+    "artist_id": 86,
+    "name": "P4Koo"
+  },
+  {
+    "artist_id": 87,
+    "name": "SANY-ON"
+  },
+  {
+    "artist_id": 88,
+    "name": "STREME REVERIE"
+  },
+  {
+    "artist_id": 89,
+    "name": "Transin"
+  },
+  {
+    "artist_id": 90,
+    "name": "Archefluxx"
+  },
+  {
+    "artist_id": 91,
+    "name": "트리플스타"
+  },
+  {
+    "artist_id": 92,
+    "name": "루시"
+  },
+  {
+    "artist_id": 93,
+    "name": "하이틴"
+  },
+  {
+    "artist_id": 94,
+    "name": "Mr.Weq"
+  },
+  {
+    "artist_id": 95,
+    "name": "Koharu feat. Renyata"
+  },
+  {
+    "artist_id": 96,
+    "name": "포리"
+  },
+  {
+    "artist_id": 97,
+    "name": "키엔"
+  },
+  {
+    "artist_id": 98,
+    "name": "스태틱스피어 & 복어수산"
+  },
+  {
+    "artist_id": 99,
+    "name": "WyvernP"
+  },
+  {
+    "artist_id": 100,
+    "name": "QWertism"
+  },
+  {
+    "artist_id": 101,
+    "name": "애플소다"
+  },
+  {
+    "artist_id": 102,
+    "name": "Garlic Squad"
+  },
+  {
+    "artist_id": 103,
+    "name": "KURORAK"
+  },
+  {
+    "artist_id": 104,
+    "name": "Sr. Lan Belmont"
+  },
+  {
+    "artist_id": 105,
+    "name": "Yakikaze & Cashew"
+  },
+  {
+    "artist_id": 106,
+    "name": "MonstDeath"
+  },
+  {
+    "artist_id": 107,
+    "name": "HyuN vs lixound"
+  },
+  {
+    "artist_id": 108,
+    "name": "Abel"
+  },
+  {
+    "artist_id": 109,
+    "name": "uma"
+  },
+  {
+    "artist_id": 110,
+    "name": "애플소다 vs 맥스"
+  },
+  {
+    "artist_id": 111,
+    "name": "도인 && SUNNY"
+  },
+  {
+    "artist_id": 112,
+    "name": "t+pazolite"
+  },
+  {
+    "artist_id": 113,
+    "name": "Ginkiha"
+  },
+  {
+    "artist_id": 114,
+    "name": "Hommarju"
+  },
+  {
+    "artist_id": 115,
+    "name": "t+pazolite+Ginkiha+Hommarju"
+  },
+  {
+    "artist_id": 116,
+    "name": "DASU"
+  },
+  {
+    "artist_id": 117,
+    "name": "HyuN feat. Syepias"
+  },
+  {
+    "artist_id": 118,
+    "name": "TOTO"
+  },
+  {
+    "artist_id": 119,
+    "name": "야시 프레스먼"
+  },
+  {
+    "artist_id": 120,
+    "name": "NOMA"
+  },
+  {
+    "artist_id": 121,
+    "name": "Junk"
+  },
+  {
+    "artist_id": 122,
+    "name": "Croire"
+  },
+  {
+    "artist_id": 123,
+    "name": "LeaF"
+  },
+  {
+    "artist_id": 124,
+    "name": "uma vs. Morimori Atsushi"
+  },
+  {
+    "artist_id": 125,
+    "name": "Cosmograph"
+  },
+  {
+    "artist_id": 126,
+    "name": "A:llha (ANE + 2riA)"
+  },
+  {
+    "artist_id": 127,
+    "name": "제론"
+  },
+  {
+    "artist_id": 128,
+    "name": "ESTi × M2U"
+  },
+  {
+    "artist_id": 129,
+    "name": "나토 & r300k"
+  },
+  {
+    "artist_id": 130,
+    "name": "야마젯"
+  },
+  {
+    "artist_id": 131,
+    "name": "FE"
+  },
+  {
+    "artist_id": 132,
+    "name": "로체"
+  },
+  {
+    "artist_id": 133,
+    "name": "하우스플랜"
+  },
+  {
+    "artist_id": 134,
+    "name": "Roy Mikelate"
+  },
+  {
+    "artist_id": 135,
+    "name": "(여자)아이들"
+  },
+  {
+    "artist_id": 136,
+    "name": "스테이씨"
+  },
+  {
+    "artist_id": 137,
+    "name": "하이라이트"
+  },
+  {
+    "artist_id": 138,
+    "name": "김연자"
+  },
+  {
+    "artist_id": 139,
+    "name": "아이브"
+  },
+  {
+    "artist_id": 140,
+    "name": "Zekk"
+  },
+  {
+    "artist_id": 141,
+    "name": "HyuN & MIIM"
+  },
+  {
+    "artist_id": 142,
+    "name": "litmus*"
+  },
+  {
+    "artist_id": 143,
+    "name": "Sobrem"
+  },
+  {
+    "artist_id": 144,
+    "name": "EBIMAYO"
+  },
+  {
+    "artist_id": 145,
+    "name": "kanone"
+  },
+  {
+    "artist_id": 146,
+    "name": "Tanchiky"
+  },
+  {
+    "artist_id": 147,
+    "name": "Morimori Atsushi"
+  },
+  {
+    "artist_id": 148,
+    "name": "ryhki"
+  },
+  {
+    "artist_id": 149,
+    "name": "sakuzyo"
+  },
+  {
+    "artist_id": 150,
+    "name": "xi"
+  },
+  {
+    "artist_id": 151,
+    "name": "MONSTA X"
+  },
+  {
+    "artist_id": 152,
+    "name": "코요태"
+  },
+  {
+    "artist_id": 153,
+    "name": "타이푼"
+  },
+  {
+    "artist_id": 154,
+    "name": "RiraN"
+  },
+  {
+    "artist_id": 155,
+    "name": "onoken"
+  },
+  {
+    "artist_id": 156,
+    "name": "WONDERTRAVELER Project"
+  },
+  {
+    "artist_id": 157,
+    "name": "The Musical Ghost"
+  },
+  {
+    "artist_id": 158,
+    "name": "NAOKI underground Ω"
+  },
+  {
+    "artist_id": 159,
+    "name": "eicateve"
+  },
+  {
+    "artist_id": 160,
+    "name": "TANO*C Sound Team"
+  },
+  {
+    "artist_id": 161,
+    "name": "에버글로우"
+  },
+  {
+    "artist_id": 162,
+    "name": "KUROKOTEI"
+  },
+  {
+    "artist_id": 163,
+    "name": "더보이즈"
+  },
+  {
+    "artist_id": 164,
+    "name": "Klass E"
+  },
+  {
+    "artist_id": 165,
+    "name": "Laur"
+  },
+  {
+    "artist_id": 166,
+    "name": "TAG underground overlay"
+  },
+  {
+    "artist_id": 167,
+    "name": "MYUKKE."
+  },
+  {
+    "artist_id": 168,
+    "name": "위아이"
+  },
+  {
+    "artist_id": 169,
+    "name": "EmoCosine"
+  },
+  {
+    "artist_id": 170,
+    "name": "메이브"
+  },
+  {
+    "artist_id": 171,
+    "name": "Lite Show Magic"
+  },
+  {
+    "artist_id": 172,
+    "name": "V.A."
+  },
+  {
+    "artist_id": 173,
+    "name": "Blacklolita"
+  },
+  {
+    "artist_id": 174,
+    "name": "Castellia"
+  },
+  {
+    "artist_id": 175,
+    "name": "Jehezukiel☆KAZEMURA☆Hideky"
+  },
+  {
+    "artist_id": 176,
+    "name": "Ras"
+  },
+  {
+    "artist_id": 177,
+    "name": "Siromaru + Cranky"
+  },
+  {
+    "artist_id": 178,
+    "name": "제로베이스원"
+  },
+  {
+    "artist_id": 179,
+    "name": "uma feat. Kanon Tachibana"
+  },
+  {
+    "artist_id": 180,
+    "name": "P*Light"
+  },
+  {
+    "artist_id": 181,
+    "name": "Sobrem a.k.a. Widowmaker"
+  },
+  {
+    "artist_id": 182,
+    "name": "USAO"
+  },
+  {
+    "artist_id": 183,
+    "name": "상록수 feat. 하나나"
+  },
+  {
+    "artist_id": 184,
+    "name": "QWER"
+  },
+  {
+    "artist_id": 185,
+    "name": "디케이지"
+  },
+  {
+    "artist_id": 186,
+    "name": "DJ Noriken"
+  },
+  {
+    "artist_id": 187,
+    "name": "Palami feat. neur6sia"
+  },
+  {
+    "artist_id": 188,
+    "name": "aran & t+pazolite"
+  },
+  {
+    "artist_id": 189,
+    "name": "싸이커스"
+  },
+  {
+    "artist_id": 190,
+    "name": "Cashew x D_AAN x Jehezukiel"
+  },
+  {
+    "artist_id": 191,
+    "name": "ESPITZ vs WONDERTRAVELER Project"
+  },
+  {
+    "artist_id": 192,
+    "name": "Said"
+  },
+  {
+    "artist_id": 193,
+    "name": "우디"
+  },
+  {
+    "artist_id": 194,
+    "name": "MAX x Cashew x Dave Rodgers"
+  },
+  {
+    "artist_id": 195,
+    "name": "Essbee"
+  },
+  {
+    "artist_id": 196,
+    "name": "Qu-ail"
+  },
+  {
+    "artist_id": 197,
+    "name": "litmus* x Ester"
+  },
+  {
+    "artist_id": 198,
+    "name": "Cashew & D_AAN"
+  },
+  {
+    "artist_id": 199,
+    "name": "MonstDeath vs Neutral Moon"
+  },
+  {
+    "artist_id": 200,
+    "name": "Gram"
+  },
+  {
+    "artist_id": 201,
+    "name": "Cashew & Castellia"
+  },
+  {
+    "artist_id": 202,
+    "name": "Massive New Krew & RoughSketch"
+  },
+  {
+    "artist_id": 203,
+    "name": "HiTECH NINJA"
+  },
+  {
+    "artist_id": 204,
+    "name": "Reku Mochizuki"
+  },
+  {
+    "artist_id": 205,
+    "name": "DJ Myosuke & Laur"
+  },
+  {
+    "artist_id": 206,
+    "name": "Zekk vs MAX"
+  },
+  {
+    "artist_id": 207,
+    "name": "DJ Myosuke"
+  },
+  {
+    "artist_id": 208,
+    "name": "Springhead"
+  },
+  {
+    "artist_id": 209,
+    "name": "rareguy & MonstDeath"
+  },
+  {
+    "artist_id": 210,
+    "name": "Getty"
+  },
+  {
+    "artist_id": 211,
+    "name": "REDALiCE"
+  },
+  {
+    "artist_id": 212,
+    "name": "Yooh"
+  },
+  {
+    "artist_id": 213,
+    "name": "Srav3R & USAO"
+  },
+  {
+    "artist_id": 214,
+    "name": "SOTUI & Missionary"
+  }
+]
