@@ -24,9 +24,9 @@ export async function initializeDataIfNeeded() {
 // JSON 로딩 및 삽입
 async function loadJsonToDb() {
   const [songs, charts, artists] = await Promise.all([
-    fetch("/src/data/songs.json").then((res) => res.json()),
-    fetch("/src/data/charts.json").then((res) => res.json()),
-    fetch("/src/data/artists.json").then((res) => res.json()),
+    fetch("/data/songs.json").then((res) => res.json()),
+    fetch("/data/charts.json").then((res) => res.json()),
+    fetch("/data/artists.json").then((res) => res.json()),
   ]);
 
   // 자동으로 중복 덮어쓰기 허용
