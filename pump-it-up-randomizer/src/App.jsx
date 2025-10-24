@@ -50,18 +50,22 @@ function App() {
 
   return (
     <div className="max-w-3xl mx-auto p-4">
-      <h1 className="text-2xl font-bold mb-4">🎵 Pump It Up 랜덤 뽑기</h1>
+      <h1 className="text-2xl font-bold mb-4">🎵 Pump It Up 채보 랜덤 뽑기</h1>
       <div className="flex items-center gap-2 mb-4">
-        <label>곡 모드</label>
-        <input
-          type="checkbox"
-          checked={isChartMode}
-          onChange={() => setIsChartMode(!isChartMode)}
-        />
-        <label>채보 포함 모드</label>
+        <label>곡 뽑기</label>
+        <div class="relative inline-block w-11 h-5">
+          <input
+            id="switch-component" type="checkbox" className="peer appearance-none w-11 h-5 bg-slate-100 rounded-full checked:bg-slate-800 cursor-pointer transition-colors duration-300"
+            checked={isChartMode}
+            onChange={() => setIsChartMode(!isChartMode)}
+          />
+          <label for="switch-component" class="absolute top-0 left-0 w-5 h-5 bg-white rounded-full border border-slate-300 shadow-sm transition-transform duration-300 peer-checked:translate-x-6 peer-checked:border-slate-800 cursor-pointer">
+          </label>
+        </div>
+        <label>채보 뽑기</label>
       </div>
 
-      <RandomizerForm onSubmit={handleRandomize} />
+      <RandomizerForm onSubmit={handleRandomize} isChartMode={isChartMode} />
 
       <div className="mt-6 grid gap-4">
         {results.map(item => (
