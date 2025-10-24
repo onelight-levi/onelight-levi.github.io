@@ -16300,5 +16300,485 @@
     "song": 623,
     "mode": 2,
     "level": 22
+  },
+  {
+    "chart_id": 2718,
+    "song": 624,
+    "mode": 1,
+    "level": 16
+  },
+  {
+    "chart_id": 2719,
+    "song": 624,
+    "mode": 1,
+    "level": 20
+  },
+  {
+    "chart_id": 2720,
+    "song": 624,
+    "mode": 1,
+    "level": 22
+  },
+  {
+    "chart_id": 2721,
+    "song": 624,
+    "mode": 2,
+    "level": 20
+  },
+  {
+    "chart_id": 2722,
+    "song": 624,
+    "mode": 2,
+    "level": 24
+  },
+  {
+    "chart_id": 2723,
+    "song": 625,
+    "mode": 1,
+    "level": 16
+  },
+  {
+    "chart_id": 2724,
+    "song": 625,
+    "mode": 1,
+    "level": 18
+  },
+  {
+    "chart_id": 2725,
+    "song": 625,
+    "mode": 1,
+    "level": 20
+  },
+  {
+    "chart_id": 2726,
+    "song": 625,
+    "mode": 2,
+    "level": 16
+  },
+  {
+    "chart_id": 2727,
+    "song": 625,
+    "mode": 2,
+    "level": 18
+  },
+  {
+    "chart_id": 2728,
+    "song": 625,
+    "mode": 2,
+    "level": 20
+  },
+  {
+    "chart_id": 2729,
+    "song": 625,
+    "mode": 2,
+    "level": 23
+  },
+  {
+    "chart_id": 2730,
+    "song": 626,
+    "mode": 1,
+    "level": 18
+  },
+  {
+    "chart_id": 2731,
+    "song": 626,
+    "mode": 1,
+    "level": 21
+  },
+  {
+    "chart_id": 2732,
+    "song": 626,
+    "mode": 2,
+    "level": 19
+  },
+  {
+    "chart_id": 2733,
+    "song": 626,
+    "mode": 2,
+    "level": 23
+  },
+  {
+    "chart_id": 2734,
+    "song": 627,
+    "mode": 1,
+    "level": 17
+  },
+  {
+    "chart_id": 2735,
+    "song": 627,
+    "mode": 1,
+    "level": 20
+  },
+  {
+    "chart_id": 2736,
+    "song": 627,
+    "mode": 2,
+    "level": 15
+  },
+  {
+    "chart_id": 2737,
+    "song": 627,
+    "mode": 2,
+    "level": 20
+  },
+  {
+    "chart_id": 2738,
+    "song": 627,
+    "mode": 2,
+    "level": 23
+  },
+  {
+    "chart_id": 2739,
+    "song": 628,
+    "mode": 1,
+    "level": 15
+  },
+  {
+    "chart_id": 2740,
+    "song": 628,
+    "mode": 1,
+    "level": 18
+  },
+  {
+    "chart_id": 2741,
+    "song": 628,
+    "mode": 1,
+    "level": 21
+  },
+  {
+    "chart_id": 2742,
+    "song": 628,
+    "mode": 1,
+    "level": 23
+  },
+  {
+    "chart_id": 2743,
+    "song": 628,
+    "mode": 2,
+    "level": 16
+  },
+  {
+    "chart_id": 2744,
+    "song": 628,
+    "mode": 2,
+    "level": 19
+  },
+  {
+    "chart_id": 2745,
+    "song": 628,
+    "mode": 2,
+    "level": 23
+  },
+  {
+    "chart_id": 2746,
+    "song": 628,
+    "mode": 2,
+    "level": 25
+  },
+  {
+    "chart_id": 2747,
+    "song": 629,
+    "mode": 1,
+    "level": 17
+  },
+  {
+    "chart_id": 2748,
+    "song": 629,
+    "mode": 1,
+    "level": 20
+  },
+  {
+    "chart_id": 2749,
+    "song": 629,
+    "mode": 1,
+    "level": 23
+  },
+  {
+    "chart_id": 2750,
+    "song": 629,
+    "mode": 2,
+    "level": 15
+  },
+  {
+    "chart_id": 2751,
+    "song": 629,
+    "mode": 2,
+    "level": 18
+  },
+  {
+    "chart_id": 2752,
+    "song": 629,
+    "mode": 2,
+    "level": 22
+  },
+  {
+    "chart_id": 2753,
+    "song": 629,
+    "mode": 2,
+    "level": 24
+  },
+  {
+    "chart_id": 2754,
+    "song": 630,
+    "mode": 1,
+    "level": 17
+  },
+  {
+    "chart_id": 2755,
+    "song": 630,
+    "mode": 1,
+    "level": 20
+  },
+  {
+    "chart_id": 2756,
+    "song": 630,
+    "mode": 1,
+    "level": 23
+  },
+  {
+    "chart_id": 2757,
+    "song": 630,
+    "mode": 2,
+    "level": 16
+  },
+  {
+    "chart_id": 2758,
+    "song": 630,
+    "mode": 2,
+    "level": 18
+  },
+  {
+    "chart_id": 2759,
+    "song": 630,
+    "mode": 2,
+    "level": 22
+  },
+  {
+    "chart_id": 2760,
+    "song": 630,
+    "mode": 2,
+    "level": 25
+  },
+  {
+    "chart_id": 2761,
+    "song": 631,
+    "mode": 1,
+    "level": 18
+  },
+  {
+    "chart_id": 2762,
+    "song": 631,
+    "mode": 1,
+    "level": 21
+  },
+  {
+    "chart_id": 2763,
+    "song": 631,
+    "mode": 1,
+    "level": 23
+  },
+  {
+    "chart_id": 2764,
+    "song": 631,
+    "mode": 2,
+    "level": 22
+  },
+  {
+    "chart_id": 2765,
+    "song": 631,
+    "mode": 2,
+    "level": 24
+  },
+  {
+    "chart_id": 2766,
+    "song": 632,
+    "mode": 1,
+    "level": 16
+  },
+  {
+    "chart_id": 2767,
+    "song": 632,
+    "mode": 1,
+    "level": 19
+  },
+  {
+    "chart_id": 2768,
+    "song": 632,
+    "mode": 1,
+    "level": 21
+  },
+  {
+    "chart_id": 2769,
+    "song": 632,
+    "mode": 2,
+    "level": 21
+  },
+  {
+    "chart_id": 2770,
+    "song": 632,
+    "mode": 2,
+    "level": 23
+  },
+  {
+    "chart_id": 2771,
+    "song": 633,
+    "mode": 1,
+    "level": 18
+  },
+  {
+    "chart_id": 2772,
+    "song": 633,
+    "mode": 1,
+    "level": 21
+  },
+  {
+    "chart_id": 2773,
+    "song": 633,
+    "mode": 1,
+    "level": 23
+  },
+  {
+    "chart_id": 2774,
+    "song": 633,
+    "mode": 1,
+    "level": 25
+  },
+  {
+    "chart_id": 2775,
+    "song": 633,
+    "mode": 2,
+    "level": 22
+  },
+  {
+    "chart_id": 2776,
+    "song": 633,
+    "mode": 2,
+    "level": 26
+  },
+  {
+    "chart_id": 2777,
+    "song": 633,
+    "mode": 2,
+    "level": 28
+  },
+  {
+    "chart_id": 2778,
+    "song": 634,
+    "mode": 1,
+    "level": 17
+  },
+  {
+    "chart_id": 2779,
+    "song": 634,
+    "mode": 1,
+    "level": 20
+  },
+  {
+    "chart_id": 2780,
+    "song": 634,
+    "mode": 2,
+    "level": 15
+  },
+  {
+    "chart_id": 2781,
+    "song": 634,
+    "mode": 2,
+    "level": 19
+  },
+  {
+    "chart_id": 2782,
+    "song": 634,
+    "mode": 2,
+    "level": 23
+  },
+  {
+    "chart_id": 2783,
+    "song": 635,
+    "mode": 1,
+    "level": 15
+  },
+  {
+    "chart_id": 2784,
+    "song": 635,
+    "mode": 1,
+    "level": 17
+  },
+  {
+    "chart_id": 2785,
+    "song": 635,
+    "mode": 1,
+    "level": 20
+  },
+  {
+    "chart_id": 2786,
+    "song": 635,
+    "mode": 1,
+    "level": 22
+  },
+  {
+    "chart_id": 2787,
+    "song": 635,
+    "mode": 2,
+    "level": 18
+  },
+  {
+    "chart_id": 2788,
+    "song": 635,
+    "mode": 2,
+    "level": 21
+  },
+  {
+    "chart_id": 2789,
+    "song": 635,
+    "mode": 2,
+    "level": 24
+  },
+  {
+    "chart_id": 2790,
+    "song": 636,
+    "mode": 1,
+    "level": 20
+  },
+  {
+    "chart_id": 2791,
+    "song": 636,
+    "mode": 1,
+    "level": 23
+  },
+  {
+    "chart_id": 2792,
+    "song": 636,
+    "mode": 2,
+    "level": 26
+  },
+  {
+    "chart_id": 2793,
+    "song": 637,
+    "mode": 1,
+    "level": 15
+  },
+  {
+    "chart_id": 2794,
+    "song": 637,
+    "mode": 1,
+    "level": 18
+  },
+  {
+    "chart_id": 2795,
+    "song": 637,
+    "mode": 1,
+    "level": 21
+  },
+  {
+    "chart_id": 2796,
+    "song": 637,
+    "mode": 2,
+    "level": 20
+  },
+  {
+    "chart_id": 2797,
+    "song": 637,
+    "mode": 2,
+    "level": 24
   }
 ]

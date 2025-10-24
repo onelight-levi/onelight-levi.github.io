@@ -6851,5 +6851,159 @@
     "category": 1,
     "type": 4,
     "premium": 0
+  },
+  {
+    "song_id": 624,
+    "title": "4NT",
+    "artist": 215,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "series": 7,
+    "category": 1,
+    "type": 1,
+    "premium": 0
+  },
+  {
+    "song_id": 625,
+    "title": "더 아포칼립스",
+    "artist": 216,
+    "bpm_min": 171,
+    "bpm_max": 171,
+    "series": 7,
+    "category": 1,
+    "type": 1,
+    "premium": 0
+  },
+  {
+    "song_id": 626,
+    "title": "글리머 글림",
+    "artist": 10,
+    "bpm_min": 85,
+    "bpm_max": 85,
+    "series": 7,
+    "category": 1,
+    "type": 1,
+    "premium": 0
+  },
+  {
+    "song_id": 627,
+    "title": "데몬 오브 라플라스",
+    "artist": 71,
+    "bpm_min": 144,
+    "bpm_max": 144,
+    "series": 7,
+    "category": 1,
+    "type": 1,
+    "premium": 0
+  },
+  {
+    "song_id": 628,
+    "title": "†도프†센시†",
+    "artist": 217,
+    "bpm_min": 200,
+    "bpm_max": 200,
+    "series": 7,
+    "category": 3,
+    "type": 1,
+    "premium": 0
+  },
+  {
+    "song_id": 629,
+    "title": "댓 키티 (PIU Edit.)",
+    "artist": 106,
+    "bpm_min": 190,
+    "bpm_max": 190,
+    "series": 7,
+    "category": 3,
+    "type": 1,
+    "premium": 0
+  },
+  {
+    "song_id": 630,
+    "title": "스푸키 마카롱",
+    "artist": 143,
+    "bpm_min": 201,
+    "bpm_max": 201,
+    "series": 7,
+    "category": 3,
+    "type": 1,
+    "premium": 0
+  },
+  {
+    "song_id": 631,
+    "title": "프ㄹi마 마테ㄹi아 - SHORT CUT -",
+    "artist": 150,
+    "bpm_min": 187,
+    "bpm_max": 187,
+    "series": 7,
+    "category": 1,
+    "type": 4,
+    "premium": 0
+  },
+  {
+    "song_id": 632,
+    "title": "결투 - SHORT CUT -",
+    "artist": 198,
+    "bpm_min": 155,
+    "bpm_max": 155,
+    "series": 7,
+    "category": 1,
+    "type": 4,
+    "premium": 0
+  },
+  {
+    "song_id": 633,
+    "title": "데드 엔드",
+    "artist": 125,
+    "bpm_min": 212,
+    "bpm_max": 212,
+    "series": 7,
+    "category": 1,
+    "type": 1,
+    "premium": 1
+  },
+  {
+    "song_id": 634,
+    "title": "바이너리 스타",
+    "artist": 24,
+    "bpm_min": 170,
+    "bpm_max": 170,
+    "series": 7,
+    "category": 3,
+    "type": 1,
+    "premium": 0
+  },
+  {
+    "song_id": 635,
+    "title": "앨리스 인 미산트로프",
+    "artist": 123,
+    "bpm_min": 154,
+    "bpm_max": 174,
+    "series": 7,
+    "category": 3,
+    "type": 1,
+    "premium": 0
+  },
+  {
+    "song_id": 636,
+    "title": "솔브 마이 허트 - SHORT CUT -",
+    "artist": 10,
+    "bpm_min": 234,
+    "bpm_max": 234,
+    "series": 7,
+    "category": 1,
+    "type": 4,
+    "premium": 0
+  },
+  {
+    "song_id": 637,
+    "title": "머독 vs 오타다 - SHORT CUT -",
+    "artist": 191,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "series": 7,
+    "category": 1,
+    "type": 4,
+    "premium": 0
   }
 ]

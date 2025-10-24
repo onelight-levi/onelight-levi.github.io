@@ -1,7 +1,9 @@
 import { useState } from "react";
 import FilterPanel from "./FilterPanel";
+import { FiChevronDown, FiChevronUp } from 'react-icons/fi';
 
 function RandomizerForm({ onSubmit, isChartMode }) {
+  const [expanded, setExpanded] = useState(false);
   const [count, setCount] = useState(5);
   const [minLevel, setMinLevel] = useState(15);
   const [maxLevel, setMaxLevel] = useState(28);
@@ -41,7 +43,18 @@ function RandomizerForm({ onSubmit, isChartMode }) {
         </div>
       </>
     )}
-      <FilterPanel filters={filters} setFilters={setFilters} />
+    <div>
+      <div onClick={() => setExpanded(!expanded)}>필터 {expanded ? (
+          <>
+            <FiChevronUp />
+          </>
+        ) : (
+          <>
+            <FiChevronDown />
+          </>
+        )}</div>
+      {expanded && (<FilterPanel filters={filters} setFilters={setFilters} />)}
+    </div>
       <button type="submit" className="bg-blue-500 text-white p-2 rounded">🎲 뽑기</button>
     </form>
   );
