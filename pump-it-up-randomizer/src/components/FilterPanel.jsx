@@ -1,7 +1,7 @@
 function FilterPanel({ filters, setFilters }) {
   const options = {
     mode: ["Single", "Double", "Co-op"],
-    series: ["1st To Zero", "NX To NXA", "FIESTA To FIESTA2", "Prime", "Prime2" ,"XX", "Phoenix",],
+    series: ["1st To Zero", "NX To NXA", "FIESTA To FIESTA2", "Prime", "Prime 2" ,"XX", "Phoenix",],
     category: ["Original", "K-pop", "World Music", "J-Music", "Xross"],
     type: ["Arcade", "Remix", "Full Song", "Short Cut"],
   };
